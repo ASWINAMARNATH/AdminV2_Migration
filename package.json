@@ -1,0 +1,19 @@
+{
+  "name": "nexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Aswin Amarnath",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  },
+  "dependencies": {
+    "playwright": "^1.35.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
